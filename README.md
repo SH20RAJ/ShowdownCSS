@@ -101,6 +101,10 @@ To use the Dark Theme, include the following CSS file:
 
 ShowdownCSS welcomes contributions! If you're eager to add your own theme, feel free to contribute to the project by adding your theme file to the `themes` directory. 
 
+### Live Demo:
+
+Check out the live demo on [CodePen](https://codepen.io/SH20RAJ/pen/vYMapOr?editors=1000) or visit our [GitHub repository](https://github.com/SH20RAJ/ShowdownCSS) or [Dev.to post](https://dev.to/sh20raj/showdowncss-style-html-created-by-showdownjs-2lia) to learn more, explore the themes, and contribute your own ideas. 🌈
+
 ### Demo 🌐
 
 Check out the [demo](https://sh20raj.github.io/ShowdownCSS/) to see ShowdownCSS in action! - (https://sh20raj.github.io/ShowdownCSS/)_
