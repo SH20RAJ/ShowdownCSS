@@ -47,6 +47,8 @@ You can include ShowdownCSS in your project using a CDN:
 
 Here's a quick example of how to use ShowdownCSS:
 
+> You can also use version specific cdn like `https://cdn.jsdelivr.net/gh/SH20RAJ/ShowdownCSS@d13e0cf619eaf668450c40fcf71afb9691f7e051/showdown.css` -> Create it from [jsDelivr](https://www.jsdelivr.com/github).
+
 ```html
 <!DOCTYPE html>
 <html lang="en">
