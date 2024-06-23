@@ -95,6 +95,8 @@ The default theme is applied automatically when you include `showdown.css`.
 
 To use the Dark Theme, include the following CSS file:
 
+See Demo on [Codepen](https://codepen.io/SH20RAJ/pen/QWRrvBj)
+
 ```html
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/SH20RAJ/ShowdownCSS@main/themes/dark-theme.css">
 ```
