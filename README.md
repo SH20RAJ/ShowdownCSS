@@ -4,6 +4,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/SH20RAJ/ShowdownCSS)](https://github.com/SH20RAJ/ShowdownCSS/stargazers)
 [![GitHub issues](https://img.shields.io/github/issues/SH20RAJ/ShowdownCSS)](https://github.com/SH20RAJ/ShowdownCSS/issues)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FShowdownCSS&labelColor=%232ccce4&countColor=%23ff8a65&style=flat)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FSH20RAJ%2FShowdownCSS)
+[![](https://data.jsdelivr.com/v1/package/gh/SH20RAJ/ShowdownCSS/badge)](https://www.jsdelivr.com/package/gh/SH20RAJ/ShowdownCSS)
 
 Hey there! Welcome to ShowdownCSS, the CSS library made for styling Markdown content parsed by Showdown! 🚀 
 
